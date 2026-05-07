@@ -74,18 +74,12 @@ Personal portfolio website built with **React.js + Tailwind CSS**.
 ## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Athallahsy&show_icons=true&title_color=A855F7&icon_color=38BDF8&text_color=E6E6FA&bg_color=0A0E27&border_color=6D28D9&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="195em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athallahsy&layout=donut&title_color=A855F7&text_color=E6E6FA&bg_color=0A0E27&border_color=6D28D9&hide_border=false&langs_count=8" alt="Top Languages" height="195em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Athallahsy&show_icons=true&title_color=A855F7&icon_color=38BDF8&text_color=E6E6FA&bg_color=0A0E27&border_color=6D28D9&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="195em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athallahsy&layout=compact&title_color=A855F7&text_color=E6E6FA&bg_color=0A0E27&border_color=6D28D9&hide_border=false&langs_count=8" alt="Top Languages" height="195em" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Athallahsy&theme=tokyonight-duo&background=0A0E27&border=6D28D9&stroke=A855F7&ring=38BDF8&fire=A855F7&currStreakNum=E6E6FA&sideNums=38BDF8&currStreakLabel=A855F7&sideLabels=38BDF8&dates=94A3B8&hide_border=false" alt="GitHub Streak" height="195em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Athallahsy&theme=tokyonight-duo&background=0A0E27&border=6D28D9&stroke=A855F7&ring=38BDF8&fire=A855F7&currStreakNum=E6E6FA&sideNums=38BDF8&currStreakLabel=A855F7&sideLabels=38BDF8&dates=94A3B8&hide_border=false" alt="GitHub Streak" height="195em" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athallahsy&bg_color=0A0E27&color=A855F7&line=38BDF8&point=A855F7&area=true&hide_border=false&border_color=6D28D9" alt="Activity Graph" />
-</p>
-
 ---
 
 ## 🎯 What I'm Working On  
