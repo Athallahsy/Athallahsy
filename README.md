@@ -56,10 +56,10 @@ A comprehensive **personal finance management app** built with **Laravel 11 + My
 
 ---
 
-### 🔹 [Inkwell - Blog Platform](https://github.com/athallahsy/inkwell)  
-A modern **blog application** built with **Laravel Breeze**.  
-**Features:** User authentication, article management, categories, responsive design  
-**Skills Demonstrated:** Laravel Breeze integration, content management, security implementation  
+### 🔹 [Inkwell - Blog Platform](https://github.com/athallahsy/inkwell)
+A full-stack **blog CMS** built with **Laravel 11 + MySQL + Bootstrap + Tailwind CSS**.  
+**Features:** Role-based access control, article & category management, file manager, site configuration, view counter  
+**Skills Demonstrated:** MVC architecture, middleware, Eloquent ORM, server-side DataTables, image upload  
 
 ---
 
