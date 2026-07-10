@@ -1,10 +1,10 @@
 ![Header](./img/github-header-banner.png)
 
-# 👋 Hi, I'm Athallah Muhammad Syaffa  
+# 👋 Hi, I'm Athallah Muhammad Syaffa
 
-💻 A passionate **Fullstack Developer (Laravel & React)** in progress.  
-🌱 Currently learning and building end-to-end web applications — from backend logic to modern, responsive user interfaces.  
-🎯 **Goal:** Mastering the art of creating seamless digital experiences  
+💻 **Junior Fullstack Developer** — Laravel & React on the web, Flutter on mobile.
+🛠️ I build software that real people actually use: a finance app for my own budgeting, an e-commerce site running my mom's herbal drink business, and a farm-management app my dad uses every day.
+🎯 **Currently:** studying Software Engineering (D4 TRPL) at Politeknik IDN Bogor, semester 4.
 
 ---
 
@@ -15,9 +15,11 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
 ### **Backend & Database**
@@ -25,6 +27,13 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+</p>
+
+### **Mobile**
+<p>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 </p>
 
 ### **Tools & Development**
@@ -39,56 +48,57 @@
 
 ### **Currently Learning**
 <p>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
+---
+
+## 📌 Featured Projects
+
+### 🔹 [Herbal Qaf — E-commerce for a Family Business](https://herbal-qaf.vercel.app/)
+My mom used to take orders through scattered WhatsApp chats. I built her a storefront that handles the whole flow instead: pick a product, enter an address, get shipping cost automatically via the RajaOngkir API, then send a pre-filled order straight to WhatsApp.
+**Result:** what took ~10 back-and-forth messages now takes one click.
+**Stack:** Next.js · Tailwind CSS · Framer Motion · RajaOngkir API
+
+### 🔹 [AyamKu — Farm Management App](https://github.com/athallahsy)
+My dad ran his chicken farm on handwritten notes. I built him an Android app instead: it auto-calculates feed and water needs by growth phase, tracks income and expenses across up to 3 coops, and estimates profit per harvest — with a large-text, minimal UI designed for a non-technical user.
+**Stack:** Flutter · Dart · Hive · Provider · fl_chart
+
+### 🔹 [Finote — Personal Finance Manager](https://github.com/athallahsy/finote)
+An API-first finance tracker: transaction recording, categories, and monthly reports, secured with Laravel Sanctum, plus a full admin panel in Filament and PDF export for reports.
+**Stack:** Laravel 12 · Sanctum · Filament · MySQL · REST API
+
+### 🔹 [Muhayya Fair 2025 — Event Landing Page](https://muhayya-fair.vercel.app/)
+A freelance job with a real deadline: an animated landing page for a school event, live before the event started and used on the day.
+**Stack:** HTML · CSS · Bootstrap · AOS
+
+### 🔹 [Inkwell — Blog CMS](https://github.com/athallahsy/inkwell)
+A full-stack blog platform with role-based access control, article and category management, a file manager, and CSRF-protected authentication middleware.
+**Stack:** Laravel · Breeze · MySQL · Blade
+
+### 🔹 [Portfolio Website](https://athallahsy.vercel.app)
+My personal site — built to load fast, look sharp on mobile, and actually show the projects above instead of just listing them.
+**Stack:** React.js · Tailwind CSS · Three.js · GSAP
 
 ---
 
-## 📌 Featured Projects  
-
-### 🔹 [Finote - Personal Finance Manager](https://github.com/athallahsy/finote)  
-A comprehensive **personal finance management app** built with **Laravel 11 + MySQL + Bootstrap**.  
-**Features:** Transaction tracking, category management, monthly financial reports, budget planning  
-**Skills Demonstrated:** CRUD operations, database design, authentication, data visualization  
-
----
-
-### 🔹 [Inkwell - Blog Platform](https://github.com/athallahsy/inkwell)
-A full-stack **blog CMS** built with **Laravel 11 + MySQL + Bootstrap + Tailwind CSS**.  
-**Features:** Role-based access control, article & category management, file manager, site configuration, view counter  
-**Skills Demonstrated:** MVC architecture, middleware, Eloquent ORM, server-side DataTables, image upload  
+## 🎯 What I'm Working On
+- 🔨 Shipping more full-stack projects that solve a real problem for a real person, not just tutorial clones
+- 📚 Learning **Node.js** and **Express.js** for backend diversity
+- 🚀 Exploring **Next.js** patterns beyond what I've already shipped with Herbal Qaf
+- 📱 Extending my Flutter skills toward **React Native**
 
 ---
 
-### 🔹 [Portfolio Website](https://github.com/athallahsy/portfolio)  
-Personal portfolio website built with **React.js + Tailwind CSS**.  
-**Features:** Responsive design, project showcase, contact form, modern UI/UX  
-**Skills Demonstrated:** React components, Tailwind styling, responsive design  
-**Live Demo:** [athallahsy.vercel.app](https://athallahsy.vercel.app)  
+## 💡 A Bit More About Me
+- 📖 I'm a Hafiz of the Quran (30 Juz) — memorizing it taught me patience and discipline long before I wrote my first line of code, and it still shows in how I debug.
+- 🌅 Best coding hours: morning, one cup of coffee in.
+- 🎯 My approach: build for the person who'll actually use it — whether that's an admin managing data through Filament, or my dad checking his coop's numbers on his phone.
 
 ---
 
-## 🎯 What I'm Working On  
-- 🔨 Building more **full-stack applications** with Laravel + React  
-- 📚 Learning **Node.js** and **Express.js** for backend diversity  
-- 🎨 Mastering **Tailwind CSS** for better UI/UX design  
-- 🚀 Exploring **Next.js** for server-side rendering  
-- 📱 Planning to learn **React Native** for mobile development  
-
----
-
-## 💡 Fun Facts About Me  
-- 🌅 I code better in the morning with a cup of coffee ☕  
-- 🎮 When not coding, I enjoy playing strategy games  
-- 📖 Always reading tech blogs and staying updated with latest trends  
-- 🎯 My motto: *"Code with passion, debug with patience"*  
-
----
-
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:athallahmsyaffa@gmail.com">
@@ -104,15 +114,14 @@ Personal portfolio website built with **React.js + Tailwind CSS**.
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
- 
 
 ---
 
 <div align="center">
-  
-### ✨ *"Every expert was once a beginner. Every pro was once an amateur."* ✨  
-*Always learning, always building, always growing.* 🚀  
 
-⭐️ From [Athallah Muhammad Syaffa](https://github.com/athallahsy)  
+### ✨ *"Code with passion, debug with patience."* ✨
+Open to full-time roles, freelance work, and remote collaboration.
+
+⭐️ From [Athallah Muhammad Syaffa](https://github.com/athallahsy)
 
 </div>
