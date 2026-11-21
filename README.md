@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Athallah Muhammad Syaffa
 
-💻 **Junior Fullstack Developer** — Laravel & React on the web, Flutter on mobile.
-🛠️ I build software that real people actually use: a finance app for my own budgeting, an e-commerce site running my mom's herbal drink business, and a farm-management app my dad uses every day.
-🎯 **Currently:** studying Software Engineering (D4 TRPL) at Politeknik IDN Bogor, semester 4.
+💻 **Junior Fullstack Developer** — Laravel, CodeIgniter & React on the web, Flutter on mobile.
+🛠️ I build software that real people actually use: an AI customer-service bot taking flower orders on WhatsApp, an e-commerce site running my mom's herbal drink business, and a farm-management app my dad uses every day.
+🎯 **Currently:** IT Staff at a florist business in Banjarbaru, while studying Software Engineering (D4 TRPL) at Politeknik IDN Bogor, semester 5.
 
 ---
 
@@ -26,8 +26,15 @@
 <p>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+</p>
+
+### **AI & Integrations**
+<p>
+  <img src="https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WhatsApp%20Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
 </p>
 
 ### **Mobile**
@@ -55,6 +62,11 @@
 ---
 
 ## 📌 Featured Projects
+
+### 🔹 WhatsApp AI Customer Service & Ordering Bot — Florist Business
+Customers message a flower shop at night, when no staff are online. I built a bot that answers and takes orders on WhatsApp between 22:00 and 08:00: it understands free-text requests with Gemini, quotes shipping by distance, creates the order, and checks payment proofs. When a staff member replies from the shop's phone, the bot goes quiet for that customer automatically, and staff can also take over any chat from an admin dashboard.
+**Result:** it is live in production and has taken real customer orders overnight, without staff online.
+**Stack:** CodeIgniter 4 · Gemini API · WhatsApp Business API (webhooks, HMAC signature check) · MySQL · PHPUnit
 
 ### 🔹 [Herbal Qaf — E-commerce for a Family Business](https://herbal-qaf.vercel.app/)
 My mom used to take orders through scattered WhatsApp chats. I built her a storefront that handles the whole flow instead: pick a product, enter an address, get shipping cost automatically via the RajaOngkir API, then send a pre-filled order straight to WhatsApp.
@@ -84,6 +96,7 @@ My personal site — built to load fast, look sharp on mobile, and actually show
 ---
 
 ## 🎯 What I'm Working On
+- 📱 Building a guest-checkout Android app (Flutter) on top of an existing REST API for a two-store florist business
 - 🔨 Shipping more full-stack projects that solve a real problem for a real person, not just tutorial clones
 - 📚 Learning **Node.js** and **Express.js** for backend diversity
 - 🚀 Exploring **Next.js** patterns beyond what I've already shipped with Herbal Qaf
