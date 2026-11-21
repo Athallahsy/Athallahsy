@@ -120,7 +120,7 @@ My personal site — built to load fast, look sharp on mobile, and actually show
   <a href="https://www.linkedin.com/in/athallahsy">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://athallahsy.vercel.app">
+  <a href="https://athallahsy.my.id">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/athallahsy">
